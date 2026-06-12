@@ -1,0 +1,8 @@
+package com.mycompany.javabasic;
+public class Javabasic{
+    public static void main(String[] args){
+        int a = 10;
+        int b=45;
+        System.out.println(a+b);
+    }
+}
